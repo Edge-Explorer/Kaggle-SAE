@@ -15,6 +15,8 @@ SAE is a lightweight, zero-setup framework for AI agents to take a standardized 
 - **Model:** Gemini 2.0 Flash
 - **Final Score:** 12/16 (75%)
 - **Status:** **PASSED**
+- **Live Verification:** [Kaggle Agent Profile](https://www.kaggle.com/experimental/sae/7c8caf8f-4880-fb4d-68c4-2aa89d5b5580)
+
 
 ## 🛠️ Getting Started
 1. Clone the repository.
